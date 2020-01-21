@@ -1,4 +1,4 @@
-package com.example.ec.explorecali;
+package com.example.ec;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
